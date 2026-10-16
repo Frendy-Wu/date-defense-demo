@@ -4,6 +4,8 @@ Phaser + TypeScript + Vite 浏览器 demo。原方案保存于 [docs/方案规�
 
 换电脑继续开发：先阅读 [项目进度与交接](docs/项目进度.md)，同步步骤见 [跨电脑同步](docs/跨电脑同步.md)。
 
+原始需求及后续澄清保存在 [聊天上下文](docs/聊天记录/README.md)，供新聊天接续讨论。
+
 ## 启动
 
 需要 Node.js 20.19+ 或 22.12+。首次执行 `npm install`，随后执行 `npm run dev`，浏览器打开终端显示的本地地址（默认 http://127.0.0.1:5173）。也可双击 `启动游戏.cmd`。正式构建：`npm run build`；输出为 `dist/`，需通过 HTTP 静态服务器访问，不要直接双击 HTML。

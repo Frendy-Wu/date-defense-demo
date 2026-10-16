@@ -1,0 +1,11 @@
+import {chromium} from '@playwright/test';
+import assert from 'node:assert/strict';
+const browser=await chromium.launch({channel:'msedge',headless:true});
+const page=await browser.newPage({viewport:{width:1440,height:1000}});const errors=[];page.on('pageerror',e=>errors.push(e.message));
+await page.goto('http://127.0.0.1:5173');await page.waitForFunction(()=>window.__gameSnapshot);await page.waitForTimeout(300);
+await page.screenshot({path:'test-results/01-ready.png'});
+const box=await page.locator('canvas').boundingBox();const pos=(x,y)=>[box.x+x/540*box.width,box.y+y/960*box.height];
+await page.mouse.click(...pos(55,260));await page.mouse.move(...pos(177,355));await page.waitForTimeout(300);await page.screenshot({path:'test-results/07-preview.png'});
+await page.locator('#restart').dblclick();await page.waitForTimeout(500);assert.equal(await page.locator('canvas').count(),1);assert.equal(await page.evaluate(()=>window.__gameSnapshot.energy),500);
+await page.locator('summary').click();const [download]=await Promise.all([page.waitForEvent('download'),page.getByText('下载默认 Excel 模板').click()]);assert.ok((await download.suggestedFilename()).endsWith('.xlsx'));
+await page.setViewportSize({width:390,height:844});await page.waitForTimeout(250);await page.screenshot({path:'test-results/06-narrow.png'});assert.deepEqual(errors,[]);await browser.close();console.log('Final smoke: preview, repeat restart, template download, narrow layout passed.');

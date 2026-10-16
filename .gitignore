@@ -1,0 +1,14 @@
+node_modules/
+dist/
+test-results/
+*.log
+.workbook-tools/node_modules/
+
+# Local credentials and machine-specific files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db

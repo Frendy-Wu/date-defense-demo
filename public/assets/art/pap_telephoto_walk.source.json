@@ -1,0 +1,26 @@
+{
+  "name": "pap_telephoto_walk",
+  "frameWidth": 512,
+  "frameHeight": 768,
+  "columns": 4,
+  "rows": 2,
+  "frameCount": 8,
+  "frameRate": 12,
+  "repeat": -1,
+  "sheet": "pap_telephoto_walk_sheet.png",
+  "sourceFrameIndices": [
+    5,
+    6,
+    8,
+    9,
+    11,
+    12,
+    14,
+    15
+  ],
+  "sourceFrameCount": 16,
+  "jobId": "49ba4481-af46-4796-b2ac-9efa194288f5",
+  "creditsCharged": 9,
+  "processing": "Uniform scale, fixed vertical placement, horizontal translation registration; no redraw, no per-frame crop or scale.",
+  "limitation": "Sunglasses and two-handed telephoto camera are retained. Camera aim and apparent lens length vary slightly with pose; exact identity and per-frame foot phases are not guaranteed."
+}

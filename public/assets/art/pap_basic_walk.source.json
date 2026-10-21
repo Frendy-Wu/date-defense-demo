@@ -1,0 +1,26 @@
+{
+  "name": "pap_basic_walk",
+  "frameWidth": 512,
+  "frameHeight": 768,
+  "columns": 4,
+  "rows": 2,
+  "frameCount": 8,
+  "frameRate": 12,
+  "repeat": -1,
+  "sheet": "pap_basic_walk_sheet.png",
+  "sourceFrameIndices": [
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    0,
+    2
+  ],
+  "sourceFrameCount": 16,
+  "jobId": "1d5f3d76-d8e8-432e-ae34-e2ae66c778b3",
+  "creditsCharged": 9,
+  "processing": "Uniform scale, fixed vertical placement, horizontal translation registration; no redraw, no per-frame crop or scale.",
+  "limitation": "Camera remains below the eyes, close to the reference pose. AI-generated details and exact foot phases are not guaranteed identical to the specification."
+}

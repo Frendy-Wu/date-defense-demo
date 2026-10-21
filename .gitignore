@@ -1,5 +1,9 @@
 node_modules/
 dist/
+release/
+# Original art generation outputs are transferred separately (about 1.2 GB).
+# Runtime art is tracked under public/assets/art/.
+ludo-output/
 test-results/
 *.log
 .workbook-tools/node_modules/

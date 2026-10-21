@@ -1,0 +1,38 @@
+{
+  "animation": "awning_spit",
+  "frameCount": 8,
+  "frameWidth": 768,
+  "frameHeight": 768,
+  "fps": 10,
+  "loop": false,
+  "spitTriggerFrame": 4,
+  "events": [
+    {
+      "frame": 4,
+      "name": "spit",
+      "timeSeconds": 0.4
+    }
+  ],
+  "columns": 4,
+  "rows": 2,
+  "sourceFrameIndices": [
+    0,
+    10,
+    14,
+    17,
+    20,
+    23,
+    27,
+    35
+  ],
+  "frames": [
+    "awning_spit_000.png",
+    "awning_spit_001.png",
+    "awning_spit_002.png",
+    "awning_spit_003.png",
+    "awning_spit_004.png",
+    "awning_spit_005.png",
+    "awning_spit_006.png",
+    "awning_spit_007.png"
+  ]
+}

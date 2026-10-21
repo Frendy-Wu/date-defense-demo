@@ -1,0 +1,22 @@
+{
+  "name": "car_attack",
+  "frameWidth": 1024,
+  "frameHeight": 768,
+  "frameCount": 8,
+  "frameRate": 10,
+  "columns": 4,
+  "rows": 2,
+  "repeat": -1,
+  "processing": "Ludo lighting reference, original car_active image retained as static plate; lamp-only luminance compositing with smoothed periodic envelope. Not unmodified Ludo frames.",
+  "ludoJob": "48f21e6d-2097-4c00-87fd-3834c6e32929",
+  "lampBrightness": [
+    0.0,
+    0.1464466094067262,
+    0.49999999999999994,
+    0.8535533905932737,
+    1.0,
+    0.8535533905932738,
+    0.5000000000000001,
+    0.14644660940672632
+  ]
+}

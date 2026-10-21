@@ -1,0 +1,1075 @@
+{
+  "images": {
+    "ac_active": {
+      "url": "/assets/art/ac_active.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        58,
+        26,
+        612,
+        639
+      ]
+    },
+    "ac_hose": {
+      "url": "/assets/art/ac_hose.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        11,
+        166,
+        627,
+        522
+      ]
+    },
+    "ac_idle": {
+      "url": "/assets/art/ac_idle.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        104,
+        76,
+        566,
+        575
+      ]
+    },
+    "awning_active": {
+      "url": "/assets/art/awning_active.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        48,
+        8,
+        621,
+        631
+      ]
+    },
+    "awning_broken": {
+      "url": "/assets/art/awning_broken.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        32,
+        8,
+        615,
+        637
+      ]
+    },
+    "awning_digest": {
+      "url": "/assets/art/awning_digest.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        47,
+        6,
+        623,
+        631
+      ]
+    },
+    "awning_idle": {
+      "url": "/assets/art/awning_idle.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        15,
+        54,
+        632,
+        577
+      ]
+    },
+    "bean_closed": {
+      "url": "/assets/art/bean_closed.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        128,
+        0,
+        514,
+        631
+      ]
+    },
+    "bean_open": {
+      "url": "/assets/art/bean_open.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        105,
+        2,
+        594,
+        628
+      ]
+    },
+    "boss_camera": {
+      "url": "/assets/art/boss_camera.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        51,
+        79,
+        609,
+        579
+      ]
+    },
+    "boss_clothes_piece": {
+      "url": "/assets/art/boss_clothes_piece.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        17,
+        87,
+        631,
+        567
+      ]
+    },
+    "boss_defeated": {
+      "url": "/assets/art/boss_defeated.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        5,
+        32,
+        636,
+        618
+      ]
+    },
+    "boss_enraged": {
+      "url": "/assets/art/boss_enraged.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        91,
+        8,
+        564,
+        632
+      ]
+    },
+    "boss_hit": {
+      "url": "/assets/art/boss_hit.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        61,
+        9,
+        590,
+        631
+      ]
+    },
+    "boss_punch": {
+      "url": "/assets/art/boss_punch.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        71,
+        7,
+        613,
+        627
+      ]
+    },
+    "boss_resist": {
+      "url": "/assets/art/boss_resist.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        114,
+        15,
+        592,
+        621
+      ]
+    },
+    "boss_roar": {
+      "url": "/assets/art/boss_roar.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        31,
+        9,
+        617,
+        630
+      ]
+    },
+    "boss_walk": {
+      "url": "/assets/art/boss_walk.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        136,
+        7,
+        516,
+        632
+      ]
+    },
+    "car_active": {
+      "url": "/assets/art/car_active.webp",
+      "width": 640,
+      "height": 480,
+      "bounds": [
+        4,
+        17,
+        636,
+        468
+      ]
+    },
+    "car_idle": {
+      "url": "/assets/art/car_idle.webp",
+      "width": 640,
+      "height": 480,
+      "bounds": [
+        44,
+        34,
+        613,
+        459
+      ]
+    },
+    "car_lamp": {
+      "url": "/assets/art/car_lamp.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        82,
+        68,
+        569,
+        574
+      ]
+    },
+    "couple_defeat": {
+      "url": "/assets/art/couple_defeat.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        120,
+        57,
+        517,
+        597
+      ]
+    },
+    "couple_hit": {
+      "url": "/assets/art/couple_hit.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        119,
+        50,
+        526,
+        594
+      ]
+    },
+    "couple_idle": {
+      "url": "/assets/art/couple_idle.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        132,
+        69,
+        508,
+        579
+      ]
+    },
+    "couple_panic_1": {
+      "url": "/assets/art/couple_panic_1.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        100,
+        69,
+        539,
+        579
+      ]
+    },
+    "couple_panic_2": {
+      "url": "/assets/art/couple_panic_2.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        91,
+        68,
+        550,
+        578
+      ]
+    },
+    "couple_panic_3": {
+      "url": "/assets/art/couple_panic_3.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        85,
+        68,
+        554,
+        578
+      ]
+    },
+    "couple_panic_4": {
+      "url": "/assets/art/couple_panic_4.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        140,
+        41,
+        552,
+        606
+      ]
+    },
+    "couple_panic_5": {
+      "url": "/assets/art/couple_panic_5.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        119,
+        69,
+        572,
+        591
+      ]
+    },
+    "couple_relief_1": {
+      "url": "/assets/art/couple_relief_1.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        133,
+        69,
+        507,
+        579
+      ]
+    },
+    "couple_relief_2": {
+      "url": "/assets/art/couple_relief_2.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        118,
+        68,
+        523,
+        578
+      ]
+    },
+    "couple_relief_3": {
+      "url": "/assets/art/couple_relief_3.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        118,
+        40,
+        518,
+        601
+      ]
+    },
+    "couple_relief_4": {
+      "url": "/assets/art/couple_relief_4.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        138,
+        59,
+        537,
+        596
+      ]
+    },
+    "couple_victory": {
+      "url": "/assets/art/couple_victory.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        133,
+        30,
+        545,
+        612
+      ]
+    },
+    "fx_debris": {
+      "url": "/assets/art/fx_debris.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        67,
+        50,
+        591,
+        585
+      ]
+    },
+    "fx_finish_smoke": {
+      "url": "/assets/art/fx_finish_smoke.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        26,
+        61,
+        624,
+        591
+      ]
+    },
+    "fx_fire": {
+      "url": "/assets/art/fx_fire.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        159,
+        46,
+        494,
+        600
+      ]
+    },
+    "fx_impact": {
+      "url": "/assets/art/fx_impact.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        19,
+        27,
+        617,
+        599
+      ]
+    },
+    "fx_leaf": {
+      "url": "/assets/art/fx_leaf.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        25,
+        43,
+        611,
+        605
+      ]
+    },
+    "fx_light_beam": {
+      "url": "/assets/art/fx_light_beam.webp",
+      "width": 640,
+      "height": 213,
+      "bounds": [
+        17,
+        16,
+        630,
+        193
+      ]
+    },
+    "fx_roar": {
+      "url": "/assets/art/fx_roar.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        39,
+        32,
+        615,
+        615
+      ]
+    },
+    "fx_smoke": {
+      "url": "/assets/art/fx_smoke.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        121,
+        125,
+        540,
+        517
+      ]
+    },
+    "fx_suction": {
+      "url": "/assets/art/fx_suction.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        38,
+        34,
+        617,
+        609
+      ]
+    },
+    "fx_transform": {
+      "url": "/assets/art/fx_transform.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        46,
+        45,
+        594,
+        583
+      ]
+    },
+    "fx_wrap": {
+      "url": "/assets/art/fx_wrap.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        51,
+        32,
+        608,
+        606
+      ]
+    },
+    "giant_emerge": {
+      "url": "/assets/art/giant_emerge.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        14,
+        32,
+        635,
+        619
+      ]
+    },
+    "giant_punch_1": {
+      "url": "/assets/art/giant_punch_1.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        6,
+        57,
+        636,
+        571
+      ]
+    },
+    "giant_punch_2": {
+      "url": "/assets/art/giant_punch_2.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        2,
+        68,
+        639,
+        572
+      ]
+    },
+    "giant_ready": {
+      "url": "/assets/art/giant_ready.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        19,
+        42,
+        636,
+        586
+      ]
+    },
+    "giant_victory": {
+      "url": "/assets/art/giant_victory.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        14,
+        32,
+        635,
+        619
+      ]
+    },
+    "pap_basic_camera": {
+      "url": "/assets/art/pap_basic_camera.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        61,
+        125,
+        579,
+        518
+      ]
+    },
+    "pap_basic_clothes": {
+      "url": "/assets/art/pap_basic_clothes.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        18,
+        90,
+        623,
+        520
+      ]
+    },
+    "pap_basic_return": {
+      "url": "/assets/art/pap_basic_return.webp",
+      "width": 427,
+      "height": 640,
+      "bounds": [
+        73,
+        31,
+        349,
+        608
+      ]
+    },
+    "pap_basic_roll": {
+      "url": "/assets/art/pap_basic_roll.webp",
+      "width": 427,
+      "height": 640,
+      "bounds": [
+        8,
+        71,
+        423,
+        536
+      ]
+    },
+    "pap_basic_stripped": {
+      "url": "/assets/art/pap_basic_stripped.webp",
+      "width": 427,
+      "height": 640,
+      "bounds": [
+        24,
+        17,
+        412,
+        626
+      ]
+    },
+    "pap_basic_walk": {
+      "url": "/assets/art/pap_basic_walk.webp",
+      "width": 427,
+      "height": 640,
+      "bounds": [
+        75,
+        33,
+        351,
+        618
+      ]
+    },
+    "pap_pro_camera": {
+      "url": "/assets/art/pap_pro_camera.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        26,
+        81,
+        612,
+        567
+      ]
+    },
+    "pap_pro_clothes": {
+      "url": "/assets/art/pap_pro_clothes.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        57,
+        39,
+        591,
+        594
+      ]
+    },
+    "pap_pro_return": {
+      "url": "/assets/art/pap_pro_return.webp",
+      "width": 427,
+      "height": 640,
+      "bounds": [
+        82,
+        52,
+        325,
+        596
+      ]
+    },
+    "pap_pro_roll": {
+      "url": "/assets/art/pap_pro_roll.webp",
+      "width": 427,
+      "height": 640,
+      "bounds": [
+        33,
+        90,
+        412,
+        546
+      ]
+    },
+    "pap_pro_stripped": {
+      "url": "/assets/art/pap_pro_stripped.webp",
+      "width": 427,
+      "height": 640,
+      "bounds": [
+        21,
+        41,
+        422,
+        603
+      ]
+    },
+    "pap_pro_walk": {
+      "url": "/assets/art/pap_pro_walk.webp",
+      "width": 427,
+      "height": 640,
+      "bounds": [
+        71,
+        32,
+        378,
+        620
+      ]
+    },
+    "pap_telephoto_camera": {
+      "url": "/assets/art/pap_telephoto_camera.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        20,
+        59,
+        629,
+        581
+      ]
+    },
+    "pap_telephoto_clothes": {
+      "url": "/assets/art/pap_telephoto_clothes.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        24,
+        77,
+        634,
+        534
+      ]
+    },
+    "pap_telephoto_return": {
+      "url": "/assets/art/pap_telephoto_return.webp",
+      "width": 427,
+      "height": 640,
+      "bounds": [
+        113,
+        25,
+        343,
+        599
+      ]
+    },
+    "pap_telephoto_roll": {
+      "url": "/assets/art/pap_telephoto_roll.webp",
+      "width": 427,
+      "height": 640,
+      "bounds": [
+        32,
+        80,
+        417,
+        525
+      ]
+    },
+    "pap_telephoto_stripped": {
+      "url": "/assets/art/pap_telephoto_stripped.webp",
+      "width": 427,
+      "height": 640,
+      "bounds": [
+        58,
+        35,
+        403,
+        607
+      ]
+    },
+    "pap_telephoto_walk": {
+      "url": "/assets/art/pap_telephoto_walk.webp",
+      "width": 427,
+      "height": 640,
+      "bounds": [
+        74,
+        29,
+        344,
+        617
+      ]
+    },
+    "parking_active_base": {
+      "url": "/assets/art/parking_active_base.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        208,
+        21,
+        450,
+        618
+      ]
+    },
+    "parking_arm": {
+      "url": "/assets/art/parking_arm.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        17,
+        252,
+        626,
+        402
+      ]
+    },
+    "parking_broken": {
+      "url": "/assets/art/parking_broken.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        187,
+        6,
+        486,
+        634
+      ]
+    },
+    "parking_idle": {
+      "url": "/assets/art/parking_idle.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        237,
+        20,
+        409,
+        621
+      ]
+    },
+    "vine_idle": {
+      "url": "/assets/art/vine_idle.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        53,
+        8,
+        604,
+        627
+      ]
+    },
+    "vine_whip": {
+      "url": "/assets/art/vine_whip.webp",
+      "width": 640,
+      "height": 640,
+      "bounds": [
+        33,
+        40,
+        622,
+        610
+      ]
+    }
+  },
+  "animations": {
+    "ac_attack": {
+      "url": "/assets/art/ac_attack_sheet.webp",
+      "frameWidth": 384,
+      "frameHeight": 384,
+      "frameCount": 8,
+      "frameRate": 10,
+      "repeat": -1,
+      "bounds": [
+        53,
+        39,
+        332,
+        345
+      ],
+      "events": []
+    },
+    "awning_capture": {
+      "url": "/assets/art/awning_capture_sheet.webp",
+      "frameWidth": 384,
+      "frameHeight": 384,
+      "frameCount": 10,
+      "frameRate": 10,
+      "repeat": 0,
+      "bounds": [
+        43,
+        30,
+        342,
+        354
+      ],
+      "events": [
+        {
+          "frame": 6,
+          "name": "capture_complete"
+        }
+      ]
+    },
+    "awning_digest": {
+      "url": "/assets/art/awning_digest_sheet.webp",
+      "frameWidth": 384,
+      "frameHeight": 384,
+      "frameCount": 8,
+      "frameRate": 10,
+      "repeat": -1,
+      "bounds": [
+        43,
+        30,
+        341,
+        354
+      ],
+      "events": []
+    },
+    "awning_spit": {
+      "url": "/assets/art/awning_spit_sheet.webp",
+      "frameWidth": 384,
+      "frameHeight": 384,
+      "frameCount": 8,
+      "frameRate": 10,
+      "repeat": 0,
+      "bounds": [
+        38,
+        30,
+        347,
+        354
+      ],
+      "events": [
+        {
+          "frame": 4,
+          "name": "spit",
+          "timeSeconds": 0.4
+        }
+      ]
+    },
+    "boss_enrage": {
+      "url": "/assets/art/boss_enrage_sheet.webp",
+      "frameWidth": 384,
+      "frameHeight": 384,
+      "frameCount": 12,
+      "frameRate": 10,
+      "repeat": 0,
+      "bounds": [
+        47,
+        32,
+        337,
+        353
+      ],
+      "events": [
+        {
+          "frame": 6,
+          "name": "shirt_burst",
+          "timeSeconds": 0.6
+        },
+        {
+          "frame": 11,
+          "name": "enrage_complete",
+          "timeSeconds": 1.1
+        }
+      ]
+    },
+    "boss_enraged_walk": {
+      "url": "/assets/art/boss_enraged_walk_sheet.webp",
+      "frameWidth": 384,
+      "frameHeight": 384,
+      "frameCount": 8,
+      "frameRate": 10,
+      "repeat": -1,
+      "bounds": [
+        104,
+        39,
+        281,
+        345
+      ],
+      "events": []
+    },
+    "boss_punch": {
+      "url": "/assets/art/boss_punch_sheet.webp",
+      "frameWidth": 384,
+      "frameHeight": 384,
+      "frameCount": 10,
+      "frameRate": 10,
+      "repeat": 0,
+      "bounds": [
+        51,
+        32,
+        333,
+        352
+      ],
+      "events": [
+        {
+          "frame": 6,
+          "name": "punch_impact",
+          "timeSeconds": 0.6
+        }
+      ]
+    },
+    "boss_roar": {
+      "url": "/assets/art/boss_roar_sheet.webp",
+      "frameWidth": 384,
+      "frameHeight": 384,
+      "frameCount": 10,
+      "frameRate": 10,
+      "repeat": 0,
+      "bounds": [
+        74,
+        32,
+        310,
+        353
+      ],
+      "events": [
+        {
+          "frame": 5,
+          "name": "roar_shockwave",
+          "timeSeconds": 0.5
+        }
+      ]
+    },
+    "boss_walk": {
+      "url": "/assets/art/boss_walk_sheet.webp",
+      "frameWidth": 384,
+      "frameHeight": 384,
+      "frameCount": 8,
+      "frameRate": 10,
+      "repeat": -1,
+      "bounds": [
+        103,
+        39,
+        281,
+        344
+      ],
+      "events": []
+    },
+    "car_attack": {
+      "url": "/assets/art/car_attack_sheet.webp",
+      "frameWidth": 384,
+      "frameHeight": 288,
+      "frameCount": 8,
+      "frameRate": 10,
+      "repeat": -1,
+      "bounds": [
+        28,
+        28,
+        356,
+        262
+      ],
+      "events": []
+    },
+    "giant_emerge": {
+      "url": "/assets/art/giant_emerge_sheet.webp",
+      "frameWidth": 384,
+      "frameHeight": 384,
+      "frameCount": 20,
+      "frameRate": 10,
+      "repeat": 0,
+      "bounds": [
+        69,
+        32,
+        315,
+        352
+      ],
+      "events": [
+        {
+          "frame": 6,
+          "name": "bean_open",
+          "timeSeconds": 0.6
+        },
+        {
+          "frame": 17,
+          "name": "giant_ready",
+          "timeSeconds": 1.7
+        }
+      ]
+    },
+    "pap_basic_walk": {
+      "url": "/assets/art/pap_basic_walk_sheet.webp",
+      "frameWidth": 256,
+      "frameHeight": 384,
+      "frameCount": 8,
+      "frameRate": 12,
+      "repeat": -1,
+      "bounds": [
+        58,
+        38,
+        199,
+        344
+      ],
+      "events": []
+    },
+    "pap_pro_walk": {
+      "url": "/assets/art/pap_pro_walk_sheet.webp",
+      "frameWidth": 256,
+      "frameHeight": 384,
+      "frameCount": 8,
+      "frameRate": 12,
+      "repeat": -1,
+      "bounds": [
+        52,
+        38,
+        204,
+        345
+      ],
+      "events": []
+    },
+    "pap_telephoto_walk": {
+      "url": "/assets/art/pap_telephoto_walk_sheet.webp",
+      "frameWidth": 256,
+      "frameHeight": 384,
+      "frameCount": 8,
+      "frameRate": 12,
+      "repeat": -1,
+      "bounds": [
+        57,
+        41,
+        199,
+        345
+      ],
+      "events": []
+    }
+  }
+}

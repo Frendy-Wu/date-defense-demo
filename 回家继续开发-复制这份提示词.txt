@@ -3,6 +3,8 @@
 GitHub 仓库：https://github.com/Frendy-Wu/date-defense-demo.git
 主分支：main
 
+2026-10-21 补充：当前已完成首轮正式美术接入，聊天入口现有六份记录，务必全部阅读。用户 10 月 20 日追加的九项待修问题保存在项目进度和聊天 02 末尾，本次搬机不要擅自实现。原始美术和 ludo-output 已单独传输，核对是否包含最新 parking_transform_front；仓库内 public/assets/art 是已接入运行时素材，不能当作全部原始美术。以下早期需求以最新进度和代码为准。
+
 请按下面顺序执行：
 
 1. 确认项目位置并下载最新版本

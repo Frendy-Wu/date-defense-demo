@@ -1,0 +1,23 @@
+{
+  "name": "ac_attack",
+  "frameWidth": 768,
+  "frameHeight": 768,
+  "frameCount": 8,
+  "columns": 4,
+  "rows": 2,
+  "frameRate": 10,
+  "repeat": -1,
+  "sourceFrameIndices": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14
+  ],
+  "jobId": "bc0cfbf2-55b9-424d-9bca-3830056ae9d4",
+  "processing": "Ludo generated animation; static casing/base composited from frame zero, movement retained in hose and inner fan regions; one common scale and offset.",
+  "limitations": "Top-connected hose bends up and down without deliberate axial telescoping. AI perspective and shape details can vary. Output resampling adds no native detail."
+}

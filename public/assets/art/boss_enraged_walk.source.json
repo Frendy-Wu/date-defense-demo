@@ -1,0 +1,26 @@
+{
+  "name": "boss_enraged_walk",
+  "frameWidth": 1024,
+  "frameHeight": 1024,
+  "columns": 4,
+  "rows": 2,
+  "frameCount": 8,
+  "frameRate": 10,
+  "repeat": -1,
+  "sheet": "boss_enraged_walk_sheet.png",
+  "sourceFrameIndices": [
+    14,
+    16,
+    18,
+    20,
+    22,
+    24,
+    26,
+    28
+  ],
+  "sourceFrameCount": 64,
+  "jobId": "8a1406fa-9649-46e7-b93f-740166125898",
+  "creditsCharged": 15,
+  "processing": "Uniform scale, fixed vertical placement, horizontal translation registration; no redraw, no per-frame crop or scale.",
+  "limitation": "Camera stays at chest/abdomen level and appears smaller with a shorter lens than the source. Both hands hold it throughout the selected frames. AI-generated details and exact foot phases are not guaranteed identical. Source frames are uniformly resampled onto the requested 1024px canvas; this does not add native detail."
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "ludo": {
+      "source": "Ludo-AI/ludo-cli",
+      "sourceType": "github",
+      "skillPath": "skills/ludo/SKILL.md",
+      "computedHash": "358d7b1ff6304b3632a70be7e6a2fd261d13efc84c44b1b0308bf45e75ba8876"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "animation": "awning_digest",
+  "frameCount": 8,
+  "frameWidth": 768,
+  "frameHeight": 768,
+  "fps": 10,
+  "loop": true,
+  "columns": 4,
+  "rows": 2,
+  "sourceFrameIndices": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14
+  ],
+  "frames": [
+    "awning_digest_000.png",
+    "awning_digest_001.png",
+    "awning_digest_002.png",
+    "awning_digest_003.png",
+    "awning_digest_004.png",
+    "awning_digest_005.png",
+    "awning_digest_006.png",
+    "awning_digest_007.png"
+  ]
+}

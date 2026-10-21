@@ -1,0 +1,26 @@
+{
+  "name": "boss_walk",
+  "frameWidth": 1024,
+  "frameHeight": 1024,
+  "columns": 4,
+  "rows": 2,
+  "frameCount": 8,
+  "frameRate": 10,
+  "repeat": -1,
+  "sheet": "boss_walk_sheet.png",
+  "sourceFrameIndices": [
+    10,
+    12,
+    14,
+    0,
+    2,
+    4,
+    6,
+    8
+  ],
+  "sourceFrameCount": 16,
+  "jobId": "a071c40e-a68f-48d3-a884-dc795551c2e1",
+  "creditsCharged": 9,
+  "processing": "Uniform scale, fixed vertical placement, horizontal translation registration; no redraw, no per-frame crop or scale.",
+  "limitation": "Camera remains at chest level, close to the source pose. AI-generated details and exact foot phases are not guaranteed identical. Source frames are uniformly resampled onto the requested 1024px canvas; this does not add native detail."
+}

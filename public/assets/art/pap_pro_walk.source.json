@@ -1,0 +1,26 @@
+{
+  "name": "pap_pro_walk",
+  "frameWidth": 512,
+  "frameHeight": 768,
+  "columns": 4,
+  "rows": 2,
+  "frameCount": 8,
+  "frameRate": 12,
+  "repeat": -1,
+  "sheet": "pap_pro_walk_sheet.png",
+  "sourceFrameIndices": [
+    5,
+    6,
+    8,
+    9,
+    11,
+    12,
+    14,
+    15
+  ],
+  "sourceFrameCount": 16,
+  "jobId": "b9572f4e-863a-4ae4-95e0-bdb41f820d6b",
+  "creditsCharged": 9,
+  "processing": "Uniform scale, fixed vertical placement, horizontal translation registration; no redraw, no per-frame crop or scale.",
+  "limitation": "Cap, vest, backpack and two-handed camera retained. Camera remains slightly below the eyes. Equipment details and exact per-frame foot phases are not guaranteed identical to the specification."
+}

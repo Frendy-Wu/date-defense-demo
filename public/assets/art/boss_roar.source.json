@@ -1,0 +1,42 @@
+{
+  "animation": "boss_roar",
+  "frameCount": 10,
+  "frameWidth": 1024,
+  "frameHeight": 1024,
+  "fps": 10,
+  "loop": false,
+  "roarTriggerFrame": 5,
+  "events": [
+    {
+      "frame": 5,
+      "name": "roar_shockwave",
+      "timeSeconds": 0.5
+    }
+  ],
+  "columns": 5,
+  "rows": 2,
+  "sourceFrameIndices": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    11,
+    15,
+    22,
+    26,
+    35
+  ],
+  "frames": [
+    "boss_roar_000.png",
+    "boss_roar_001.png",
+    "boss_roar_002.png",
+    "boss_roar_003.png",
+    "boss_roar_004.png",
+    "boss_roar_005.png",
+    "boss_roar_006.png",
+    "boss_roar_007.png",
+    "boss_roar_008.png",
+    "boss_roar_009.png"
+  ]
+}

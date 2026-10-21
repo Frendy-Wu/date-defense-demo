@@ -1,0 +1,70 @@
+{
+  "animation": "giant_emerge",
+  "frameCount": 20,
+  "frameWidth": 1536,
+  "frameHeight": 1536,
+  "fps": 10,
+  "loop": false,
+  "events": [
+    {
+      "frame": 6,
+      "name": "bean_open",
+      "timeSeconds": 0.6
+    },
+    {
+      "frame": 17,
+      "name": "giant_ready",
+      "timeSeconds": 1.7
+    }
+  ],
+  "columns": 5,
+  "rows": 4,
+  "sourceFrameIndices": [
+    0,
+    2,
+    5,
+    8,
+    10,
+    11,
+    13,
+    15,
+    17,
+    19,
+    21,
+    23,
+    25,
+    26,
+    27,
+    28,
+    29,
+    31,
+    33,
+    35
+  ],
+  "sourceCellSize": [
+    896,
+    504
+  ],
+  "frames": [
+    "giant_emerge_000.png",
+    "giant_emerge_001.png",
+    "giant_emerge_002.png",
+    "giant_emerge_003.png",
+    "giant_emerge_004.png",
+    "giant_emerge_005.png",
+    "giant_emerge_006.png",
+    "giant_emerge_007.png",
+    "giant_emerge_008.png",
+    "giant_emerge_009.png",
+    "giant_emerge_010.png",
+    "giant_emerge_011.png",
+    "giant_emerge_012.png",
+    "giant_emerge_013.png",
+    "giant_emerge_014.png",
+    "giant_emerge_015.png",
+    "giant_emerge_016.png",
+    "giant_emerge_017.png",
+    "giant_emerge_018.png",
+    "giant_emerge_019.png"
+  ]
+}

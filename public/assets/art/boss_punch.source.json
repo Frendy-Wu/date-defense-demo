@@ -1,0 +1,42 @@
+{
+  "animation": "boss_punch",
+  "frameCount": 10,
+  "frameWidth": 1024,
+  "frameHeight": 1024,
+  "fps": 10,
+  "loop": false,
+  "impactFrame": 6,
+  "events": [
+    {
+      "frame": 6,
+      "name": "punch_impact",
+      "timeSeconds": 0.6
+    }
+  ],
+  "columns": 5,
+  "rows": 2,
+  "sourceFrameIndices": [
+    0,
+    3,
+    5,
+    8,
+    12,
+    14,
+    18,
+    21,
+    28,
+    35
+  ],
+  "frames": [
+    "boss_punch_000.png",
+    "boss_punch_001.png",
+    "boss_punch_002.png",
+    "boss_punch_003.png",
+    "boss_punch_004.png",
+    "boss_punch_005.png",
+    "boss_punch_006.png",
+    "boss_punch_007.png",
+    "boss_punch_008.png",
+    "boss_punch_009.png"
+  ]
+}

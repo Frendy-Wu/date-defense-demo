@@ -1,0 +1,52 @@
+{
+  "animation": "boss_enrage",
+  "frameCount": 12,
+  "frameWidth": 1024,
+  "frameHeight": 1024,
+  "fps": 10,
+  "loop": false,
+  "enrageTriggerFrame": 6,
+  "transformationCompleteFrame": 11,
+  "events": [
+    {
+      "frame": 6,
+      "name": "shirt_burst",
+      "timeSeconds": 0.6
+    },
+    {
+      "frame": 11,
+      "name": "enrage_complete",
+      "timeSeconds": 1.1
+    }
+  ],
+  "columns": 4,
+  "rows": 3,
+  "sourceFrameIndices": [
+    0,
+    4,
+    8,
+    12,
+    17,
+    19,
+    20,
+    21,
+    23,
+    26,
+    30,
+    35
+  ],
+  "frames": [
+    "boss_enrage_000.png",
+    "boss_enrage_001.png",
+    "boss_enrage_002.png",
+    "boss_enrage_003.png",
+    "boss_enrage_004.png",
+    "boss_enrage_005.png",
+    "boss_enrage_006.png",
+    "boss_enrage_007.png",
+    "boss_enrage_008.png",
+    "boss_enrage_009.png",
+    "boss_enrage_010.png",
+    "boss_enrage_011.png"
+  ]
+}

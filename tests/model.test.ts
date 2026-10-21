@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { GameModel, pointAt, pathLength } from '../src/model';
+import { GameModel, pointAt, pathLength, path } from '../src/model';
 import { defaultConfig, towerIds, makeWorkbook, parseWorkbook, readConfig } from '../src/config';
 import * as XLSX from 'xlsx';
 const fresh=()=>new GameModel(structuredClone(defaultConfig));
@@ -31,7 +31,7 @@ test('delayed spawns cannot end a wave early; pause freezes time',()=>{
   const m=fresh();m.config.waves[0].delay=3;m.startWave();m.update(.25);assert.equal(m.phase,'fighting');assert.equal(m.enemies.length,0);m.paused=true;const time=m.elapsed;m.update(.25);assert.equal(m.elapsed,time);
 });
 test('path terminates exactly and imported speed uses design units',()=>{
-  assert.deepEqual(pointAt(pathLength),{x:270,y:760});const m=fresh();m.startWave();m.update(.1);assert.ok(Math.abs(m.enemies[0].distance-5.75)<.001);
+  assert.deepEqual(pointAt(pathLength),path.at(-1));const m=fresh();m.startWave();m.update(.1);assert.ok(Math.abs(m.enemies[0].distance-5.75)<.001);
 });
 test('Excel round trip preserves all config and changed numbers drive session',()=>{
   const c=structuredClone(defaultConfig);c.global.hp=222;c.global.energy=50;c.towers[0].damage=99;c.enemies[0].hp=100;

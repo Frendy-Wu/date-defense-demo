@@ -1,0 +1,44 @@
+{
+  "animation": "awning_capture",
+  "frameCount": 10,
+  "frameWidth": 768,
+  "frameHeight": 768,
+  "fps": 10,
+  "loop": false,
+  "captureCompleteFrame": 6,
+  "captureCompleteTimeSeconds": 0.6,
+  "events": [
+    {
+      "frame": 6,
+      "name": "capture_complete"
+    }
+  ],
+  "nextAnimation": "awning_digest",
+  "nextAnimationAfterFrame": 9,
+  "columns": 5,
+  "rows": 2,
+  "sourceFrameIndices": [
+    0,
+    2,
+    5,
+    8,
+    11,
+    14,
+    19,
+    24,
+    30,
+    35
+  ],
+  "frames": [
+    "awning_capture_000.png",
+    "awning_capture_001.png",
+    "awning_capture_002.png",
+    "awning_capture_003.png",
+    "awning_capture_004.png",
+    "awning_capture_005.png",
+    "awning_capture_006.png",
+    "awning_capture_007.png",
+    "awning_capture_008.png",
+    "awning_capture_009.png"
+  ]
+}
